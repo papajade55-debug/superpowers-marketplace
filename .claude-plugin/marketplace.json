@@ -13,7 +13,7 @@
       "name": "superpowers",
       "source": {
         "source": "url",
-        "url": "https://github.com/papajade55-debug/superpowers.git"
+        "url": "https://github.com/hackos-lab/superpowers.git"
       },
       "description": "Bibliothèque de skills essentielles : TDD, debugging, collaboration, et techniques éprouvées (FR)",
       "version": "5.0.6-fr",
